@@ -15,7 +15,7 @@ base_url = "https://web-gate.chitai-gorod.ru/api/v2/"
 @allure.title("Поиск книги по автору")
 @allure.description("Проверка, что API возвращает книги с ожидаемым автором.")
 def test_api_book_by_author():
-    resp = requests.get(f"{base_url}search/product?phrase=Макс Фрай", headers=headers)
+    resp = requests.get(f"{base_url}search/product?phrase=Вальтер Скотт", headers=headers)
     assert resp.status_code == 200
 
 
@@ -24,7 +24,7 @@ def test_api_book_by_author():
 @allure.title("Поиск книги по названию")
 @allure.description("Проверка, что API возвращает книги с ожидаемым названием книги.")
 def test_api_book_by_author():
-    resp = requests.get(f"{base_url}search/product?phrase=Лодка", headers=headers)
+    resp = requests.get(f"{base_url}search/product?phrase=Кубок", headers=headers)
     assert resp.status_code == 200
 
 @allure.epic("API Тестирование")
