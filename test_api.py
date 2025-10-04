@@ -6,7 +6,8 @@ headers = {
     "User-Agent":
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 YaBrowser/25.4.0.0 Safari/537.36",
     "authorization":
-        "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTk0Nzc5ODQsImlhdCI6MTc1OTMwOTk4NCwiaXNzIjoiL2FwaS92MS9hdXRoL2Fub255bW91cyIsInN1YiI6ImQwM2M1ZGZkODg2NmI3ZGM5MWE3YmMxYmQwNjE0NGFjOTVmMmZmNWQ2ODMxOWViNmM5ZDRmZGVkM2UzMDM4ZTEiLCJ0eXBlIjoxMH0.LIQNtPwESZcVjf00at8rA8nWH83Jj6MY5gh-z6Ft1rc"}
+        "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTk3MzQwMDAsImlhdCI6MTc1OTU2NjAwMCwiaXNzIjoiL2FwaS92MS9hdXRoL2Fub255bW91cyIsInN1YiI6ImU3ZTZlOWFjNDdhYjQyNTA0OGIyZjk4OTg3ZjljODU3NTI5MTlmNjk4OGQ0NWQxOTNiOWY2MWUwMWViZjIzYWQiLCJ0eXBlIjoxMH0.L-JJIttachpB9Khbpp20zsENJSaiu9uwyicIEv_lTxU"}
+"}
 base_url = "https://web-gate.chitai-gorod.ru/api/v2/"
 
 
